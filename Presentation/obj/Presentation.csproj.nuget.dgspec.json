@@ -1,0 +1,254 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/stealthcoder/RiderProjects/Credo-Project/Presentation/Presentation.csproj": {}
+  },
+  "projects": {
+    "/home/stealthcoder/RiderProjects/Credo-Project/Application/Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/stealthcoder/RiderProjects/Credo-Project/Application/Application.csproj",
+        "projectName": "Application",
+        "projectPath": "/home/stealthcoder/RiderProjects/Credo-Project/Application/Application.csproj",
+        "packagesPath": "/home/stealthcoder/.nuget/packages/",
+        "outputPath": "/home/stealthcoder/RiderProjects/Credo-Project/Application/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/stealthcoder/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "/home/stealthcoder/RiderProjects/Credo-Project/Persistence/Persistence.csproj": {
+                "projectPath": "/home/stealthcoder/RiderProjects/Credo-Project/Persistence/Persistence.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "MediatR": {
+              "target": "Package",
+              "version": "[12.2.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/7.0.405/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/stealthcoder/RiderProjects/Credo-Project/Domain/Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/stealthcoder/RiderProjects/Credo-Project/Domain/Domain.csproj",
+        "projectName": "Domain",
+        "projectPath": "/home/stealthcoder/RiderProjects/Credo-Project/Domain/Domain.csproj",
+        "packagesPath": "/home/stealthcoder/.nuget/packages/",
+        "outputPath": "/home/stealthcoder/RiderProjects/Credo-Project/Domain/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/stealthcoder/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.15, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[7.0.15, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/7.0.405/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/stealthcoder/RiderProjects/Credo-Project/Persistence/Persistence.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/stealthcoder/RiderProjects/Credo-Project/Persistence/Persistence.csproj",
+        "projectName": "Persistence",
+        "projectPath": "/home/stealthcoder/RiderProjects/Credo-Project/Persistence/Persistence.csproj",
+        "packagesPath": "/home/stealthcoder/.nuget/packages/",
+        "outputPath": "/home/stealthcoder/RiderProjects/Credo-Project/Persistence/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/stealthcoder/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "/home/stealthcoder/RiderProjects/Credo-Project/Domain/Domain.csproj": {
+                "projectPath": "/home/stealthcoder/RiderProjects/Credo-Project/Domain/Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/7.0.405/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/stealthcoder/RiderProjects/Credo-Project/Presentation/Presentation.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/stealthcoder/RiderProjects/Credo-Project/Presentation/Presentation.csproj",
+        "projectName": "Presentation",
+        "projectPath": "/home/stealthcoder/RiderProjects/Credo-Project/Presentation/Presentation.csproj",
+        "packagesPath": "/home/stealthcoder/.nuget/packages/",
+        "outputPath": "/home/stealthcoder/RiderProjects/Credo-Project/Presentation/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/stealthcoder/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "/home/stealthcoder/RiderProjects/Credo-Project/Application/Application.csproj": {
+                "projectPath": "/home/stealthcoder/RiderProjects/Credo-Project/Application/Application.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.5.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/7.0.405/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

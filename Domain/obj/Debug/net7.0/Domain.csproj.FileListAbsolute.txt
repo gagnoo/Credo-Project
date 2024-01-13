@@ -1,0 +1,12 @@
+/home/stealthcoder/RiderProjects/Credo-Project/Domain/bin/Debug/net7.0/Domain.deps.json
+/home/stealthcoder/RiderProjects/Credo-Project/Domain/bin/Debug/net7.0/Domain.dll
+/home/stealthcoder/RiderProjects/Credo-Project/Domain/bin/Debug/net7.0/Domain.pdb
+/home/stealthcoder/RiderProjects/Credo-Project/Domain/obj/Debug/net7.0/Domain.csproj.AssemblyReference.cache
+/home/stealthcoder/RiderProjects/Credo-Project/Domain/obj/Debug/net7.0/Domain.GeneratedMSBuildEditorConfig.editorconfig
+/home/stealthcoder/RiderProjects/Credo-Project/Domain/obj/Debug/net7.0/Domain.AssemblyInfoInputs.cache
+/home/stealthcoder/RiderProjects/Credo-Project/Domain/obj/Debug/net7.0/Domain.AssemblyInfo.cs
+/home/stealthcoder/RiderProjects/Credo-Project/Domain/obj/Debug/net7.0/Domain.csproj.CoreCompileInputs.cache
+/home/stealthcoder/RiderProjects/Credo-Project/Domain/obj/Debug/net7.0/Domain.dll
+/home/stealthcoder/RiderProjects/Credo-Project/Domain/obj/Debug/net7.0/refint/Domain.dll
+/home/stealthcoder/RiderProjects/Credo-Project/Domain/obj/Debug/net7.0/Domain.pdb
+/home/stealthcoder/RiderProjects/Credo-Project/Domain/obj/Debug/net7.0/ref/Domain.dll

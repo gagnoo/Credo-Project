@@ -1,0 +1,15 @@
+/home/stealthcoder/RiderProjects/Credo-Project/Persistence/bin/Debug/net7.0/Persistence.deps.json
+/home/stealthcoder/RiderProjects/Credo-Project/Persistence/bin/Debug/net7.0/Persistence.dll
+/home/stealthcoder/RiderProjects/Credo-Project/Persistence/bin/Debug/net7.0/Persistence.pdb
+/home/stealthcoder/RiderProjects/Credo-Project/Persistence/bin/Debug/net7.0/Domain.dll
+/home/stealthcoder/RiderProjects/Credo-Project/Persistence/bin/Debug/net7.0/Domain.pdb
+/home/stealthcoder/RiderProjects/Credo-Project/Persistence/obj/Debug/net7.0/Persistence.csproj.AssemblyReference.cache
+/home/stealthcoder/RiderProjects/Credo-Project/Persistence/obj/Debug/net7.0/Persistence.GeneratedMSBuildEditorConfig.editorconfig
+/home/stealthcoder/RiderProjects/Credo-Project/Persistence/obj/Debug/net7.0/Persistence.AssemblyInfoInputs.cache
+/home/stealthcoder/RiderProjects/Credo-Project/Persistence/obj/Debug/net7.0/Persistence.AssemblyInfo.cs
+/home/stealthcoder/RiderProjects/Credo-Project/Persistence/obj/Debug/net7.0/Persistence.csproj.CoreCompileInputs.cache
+/home/stealthcoder/RiderProjects/Credo-Project/Persistence/obj/Debug/net7.0/Persistence.csproj.CopyComplete
+/home/stealthcoder/RiderProjects/Credo-Project/Persistence/obj/Debug/net7.0/Persistence.dll
+/home/stealthcoder/RiderProjects/Credo-Project/Persistence/obj/Debug/net7.0/refint/Persistence.dll
+/home/stealthcoder/RiderProjects/Credo-Project/Persistence/obj/Debug/net7.0/Persistence.pdb
+/home/stealthcoder/RiderProjects/Credo-Project/Persistence/obj/Debug/net7.0/ref/Persistence.dll
