@@ -35,7 +35,7 @@ public class UserController : ControllerBase
     }
 
     [HttpPost("users")]
-    public async Task<IActionResult> GetUszers(CancellationToken cancellationToken = default)
+    public async Task<IActionResult> GetUsers(CancellationToken cancellationToken = default)
     {
         List<UserResponseModel> users = await _mediator.Send(new GetAllUsersCommand(), cancellationToken);
         return Ok(users);
